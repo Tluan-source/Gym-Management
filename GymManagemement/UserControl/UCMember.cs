@@ -135,6 +135,7 @@ namespace GymManagemement
                 }
             }
         }
+        //sdsdsdsddssddssdds
         private void cb_mbstype_SelectedIndexChanged(object sender, EventArgs e)
         {
             string selectedValue = cb_mbstype.Text;

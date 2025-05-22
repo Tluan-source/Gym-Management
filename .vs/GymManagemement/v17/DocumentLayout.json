@@ -1,81 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\",
+  "WorkspaceRootPath": "D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|c:\\users\\asus\\onedrive - hcmute.edu.vn\\desktop\\gymmanagement-thanhluan\\gymmanagemement\\modelcontrols\\ucloadmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|solutionrelative:gymmanagemement\\modelcontrols\\ucloadmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\gymmanagemement\\form\\addmem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|d:\\luan document\\tai lieu hoc tap\\hoc ki 4\\winform\\cuoiky\\source\\gymmanagement-thanhluan\\gymmanagemement\\form\\addmem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|solutionrelative:gymmanagemement\\form\\addmem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\gymmanagemement\\modelcontrols\\ucloadmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|d:\\luan document\\tai lieu hoc tap\\hoc ki 4\\winform\\cuoiky\\source\\gymmanagement-thanhluan\\gymmanagemement\\modelcontrols\\ucloadmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|solutionrelative:gymmanagemement\\modelcontrols\\ucloadmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\gymmanagemement\\modelcontrols\\ucloadmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|solutionrelative:gymmanagemement\\modelcontrols\\ucloadmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|c:\\users\\asus\\onedrive - hcmute.edu.vn\\desktop\\gymmanagement-thanhluan\\gymmanagemement\\form\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\gymmanagemement\\form\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|solutionrelative:gymmanagemement\\form\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|c:\\users\\asus\\onedrive - hcmute.edu.vn\\desktop\\gymmanagement-thanhluan\\gymmanagemement\\usercontrol\\ucmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\gymmanagemement\\usercontrol\\ucmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|solutionrelative:gymmanagemement\\usercontrol\\ucmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\gymmanagemement\\usercontrol\\ucmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\gymmanagemement\\usercontrol\\ucmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|solutionrelative:gymmanagemement\\usercontrol\\ucmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\gymmanagemement\\service\\load_member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\gymmanagemement\\service\\load_member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|solutionrelative:gymmanagemement\\service\\load_member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\gymmanagemement\\models\\loadmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\gymmanagemement\\models\\loadmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|solutionrelative:gymmanagemement\\models\\loadmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\gymmanagemement\\form\\addmem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\gymmanagemement\\form\\addmem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|solutionrelative:gymmanagemement\\form\\addmem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\gymmanagemement\\connection\\conndb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\gymmanagemement\\connection\\conndb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|solutionrelative:gymmanagemement\\connection\\conndb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\gymmanagemement\\modelcontrols\\ucloadmembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\gymmanagemement\\modelcontrols\\ucloadmembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|solutionrelative:gymmanagemement\\modelcontrols\\ucloadmembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\gymmanagemement\\modelcontrols\\ucloadmembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\gymmanagemement\\modelcontrols\\ucloadmembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|solutionrelative:gymmanagemement\\modelcontrols\\ucloadmembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\gymmanagemement\\modelcontrols\\ucloadpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\gymmanagemement\\modelcontrols\\ucloadpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|solutionrelative:gymmanagemement\\modelcontrols\\ucloadpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\gymmanagemement\\usercontrol\\ucmemberships.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\gymmanagemement\\usercontrol\\ucmemberships.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|solutionrelative:gymmanagemement\\usercontrol\\ucmemberships.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\gymmanagemement\\form\\addmembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\gymmanagemement\\form\\addmembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|solutionrelative:gymmanagemement\\form\\addmembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\gymmanagemement\\form\\addmembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\gymmanagemement\\form\\addmembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|solutionrelative:gymmanagemement\\form\\addmembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\gymmanagemement\\service\\load_membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\gymmanagemement\\service\\load_membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|solutionrelative:gymmanagemement\\service\\load_membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\gymmanagemement\\usercontrol\\ucmemberships.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\gymmanagemement\\usercontrol\\ucmemberships.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|solutionrelative:gymmanagemement\\usercontrol\\ucmemberships.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\gymmanagemement\\models\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\gymmanagemement\\models\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}|GymManagemement\\GymManagemement.csproj|solutionrelative:gymmanagemement\\models\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -92,9 +92,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Load_Member.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\Service\\Load_Member.cs",
+              "DocumentMoniker": "D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\GymManagemement\\Service\\Load_Member.cs",
               "RelativeDocumentMoniker": "GymManagemement\\Service\\Load_Member.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\Service\\Load_Member.cs",
+              "ToolTip": "D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\GymManagemement\\Service\\Load_Member.cs",
               "RelativeToolTip": "GymManagemement\\Service\\Load_Member.cs",
               "ViewState": "AgIAAHMAAAAAAAAAAAAAAIoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -105,9 +105,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Addmem.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\Form\\Addmem.cs",
+              "DocumentMoniker": "D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\GymManagemement\\Form\\Addmem.cs",
               "RelativeDocumentMoniker": "GymManagemement\\Form\\Addmem.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\Form\\Addmem.cs",
+              "ToolTip": "D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\GymManagemement\\Form\\Addmem.cs",
               "RelativeToolTip": "GymManagemement\\Form\\Addmem.cs",
               "ViewState": "AgIAAM4AAAAAAAAAAAAvwHsAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -119,27 +119,14 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "UCMember.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\UserControl\\UCMember.cs",
+              "DocumentMoniker": "D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\GymManagemement\\UserControl\\UCMember.cs",
               "RelativeDocumentMoniker": "GymManagemement\\UserControl\\UCMember.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\UserControl\\UCMember.cs",
+              "ToolTip": "D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\GymManagemement\\UserControl\\UCMember.cs",
               "RelativeToolTip": "GymManagemement\\UserControl\\UCMember.cs",
               "ViewState": "AgIAAIEAAAAAAAAAAAAiwJsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T06:52:11.258Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FrmDashboard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\Form\\FrmDashboard.cs",
-              "RelativeDocumentMoniker": "GymManagemement\\Form\\FrmDashboard.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\Form\\FrmDashboard.cs [Design]",
-              "RelativeToolTip": "GymManagemement\\Form\\FrmDashboard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T16:02:27.781Z",
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -155,11 +142,21 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\GymManagemement\\Form\\FrmDashboard.cs",
+              "RelativeDocumentMoniker": "GymManagemement\\Form\\FrmDashboard.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\Form\\FrmDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:02:27.781Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "UCLoadmember.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\ModelControls\\UCLoadmember.cs",
+              "DocumentMoniker": "D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\GymManagemement\\ModelControls\\UCLoadmember.cs",
               "RelativeDocumentMoniker": "GymManagemement\\ModelControls\\UCLoadmember.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\ModelControls\\UCLoadmember.cs",
+              "ToolTip": "D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\GymManagemement\\ModelControls\\UCLoadmember.cs",
               "RelativeToolTip": "GymManagemement\\ModelControls\\UCLoadmember.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAIAwwBoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -170,21 +167,19 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "UCMember.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\UserControl\\UCMember.cs",
+              "DocumentMoniker": "D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\GymManagemement\\UserControl\\UCMember.cs",
               "RelativeDocumentMoniker": "GymManagemement\\UserControl\\UCMember.cs",
               "ToolTip": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\UserControl\\UCMember.cs [Design]",
-              "RelativeToolTip": "GymManagemement\\UserControl\\UCMember.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T18:11:21.598Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-18T18:11:21.598Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "ConnDB.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\Connection\\ConnDB.cs",
+              "DocumentMoniker": "D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\GymManagemement\\Connection\\ConnDB.cs",
               "RelativeDocumentMoniker": "GymManagemement\\Connection\\ConnDB.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\Connection\\ConnDB.cs",
+              "ToolTip": "D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\GymManagemement\\Connection\\ConnDB.cs",
               "RelativeToolTip": "GymManagemement\\Connection\\ConnDB.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAAAC0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -194,9 +189,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Loadmember.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\Models\\Loadmember.cs",
+              "DocumentMoniker": "D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\GymManagemement\\Models\\Loadmember.cs",
               "RelativeDocumentMoniker": "GymManagemement\\Models\\Loadmember.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\Models\\Loadmember.cs",
+              "ToolTip": "D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\GymManagemement\\Models\\Loadmember.cs",
               "RelativeToolTip": "GymManagemement\\Models\\Loadmember.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -204,11 +199,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Addmem.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\Form\\Addmem.cs",
+              "DocumentMoniker": "D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\GymManagemement\\Form\\Addmem.cs",
               "RelativeDocumentMoniker": "GymManagemement\\Form\\Addmem.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\Form\\Addmem.cs [Design]",
+              "ToolTip": "D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\GymManagemement\\Form\\Addmem.cs [Design]",
               "RelativeToolTip": "GymManagemement\\Form\\Addmem.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T18:18:54.909Z",
@@ -224,9 +219,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "UCLoadmembership.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\ModelControls\\UCLoadmembership.cs",
+              "DocumentMoniker": "D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\GymManagemement\\ModelControls\\UCLoadmembership.cs",
               "RelativeDocumentMoniker": "GymManagemement\\ModelControls\\UCLoadmembership.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\ModelControls\\UCLoadmembership.cs",
+              "ToolTip": "D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\GymManagemement\\ModelControls\\UCLoadmembership.cs",
               "RelativeToolTip": "GymManagemement\\ModelControls\\UCLoadmembership.cs",
               "ViewState": "AgIAAIAAAAAAAAAAAAAAAJEAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -237,9 +232,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Load_Membership.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\Service\\Load_Membership.cs",
+              "DocumentMoniker": "D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\GymManagemement\\Service\\Load_Membership.cs",
               "RelativeDocumentMoniker": "GymManagemement\\Service\\Load_Membership.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\Service\\Load_Membership.cs",
+              "ToolTip": "D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\GymManagemement\\Service\\Load_Membership.cs",
               "RelativeToolTip": "GymManagemement\\Service\\Load_Membership.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAowEUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -250,9 +245,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Addmembership.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\Form\\Addmembership.cs",
+              "DocumentMoniker": "D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\GymManagemement\\Form\\Addmembership.cs",
               "RelativeDocumentMoniker": "GymManagemement\\Form\\Addmembership.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\Form\\Addmembership.cs",
+              "ToolTip": "D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\GymManagemement\\Form\\Addmembership.cs",
               "RelativeToolTip": "GymManagemement\\Form\\Addmembership.cs",
               "ViewState": "AgIAALQAAAAAAAAAAAAnwL8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -263,10 +258,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Addmembership.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\Form\\Addmembership.cs",
+              "DocumentMoniker": "D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\GymManagemement\\Form\\Addmembership.cs",
               "RelativeDocumentMoniker": "GymManagemement\\Form\\Addmembership.cs",
               "ToolTip": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\Form\\Addmembership.cs [Design]",
-              "RelativeToolTip": "GymManagemement\\Form\\Addmembership.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T10:15:35.399Z",
               "IsPinned": true
@@ -291,10 +285,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "UCLoadpayment.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\ModelControls\\UCLoadpayment.cs",
+              "DocumentMoniker": "D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\GymManagemement\\ModelControls\\UCLoadpayment.cs",
               "RelativeDocumentMoniker": "GymManagemement\\ModelControls\\UCLoadpayment.cs",
               "ToolTip": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\ModelControls\\UCLoadpayment.cs [Design]",
-              "RelativeToolTip": "GymManagemement\\ModelControls\\UCLoadpayment.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T10:08:45.012Z"
             },
@@ -302,10 +295,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "UCMemberships.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\UserControl\\UCMemberships.cs",
+              "DocumentMoniker": "D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\GymManagemement\\UserControl\\UCMemberships.cs",
               "RelativeDocumentMoniker": "GymManagemement\\UserControl\\UCMemberships.cs",
               "ToolTip": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\UserControl\\UCMemberships.cs [Design]",
-              "RelativeToolTip": "GymManagemement\\UserControl\\UCMemberships.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T10:06:31.908Z"
             },
@@ -313,10 +305,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "UCLoadmembership.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\ModelControls\\UCLoadmembership.cs",
+              "DocumentMoniker": "D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\GymManagemement\\ModelControls\\UCLoadmembership.cs",
               "RelativeDocumentMoniker": "GymManagemement\\ModelControls\\UCLoadmembership.cs",
               "ToolTip": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\ModelControls\\UCLoadmembership.cs [Design]",
-              "RelativeToolTip": "GymManagemement\\ModelControls\\UCLoadmembership.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T10:20:53.184Z"
             },
@@ -324,9 +315,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "UCMemberships.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\UserControl\\UCMemberships.cs",
+              "DocumentMoniker": "D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\GymManagemement\\UserControl\\UCMemberships.cs",
               "RelativeDocumentMoniker": "GymManagemement\\UserControl\\UCMemberships.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\UserControl\\UCMemberships.cs",
+              "ToolTip": "D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\GymManagemement\\UserControl\\UCMemberships.cs",
               "RelativeToolTip": "GymManagemement\\UserControl\\UCMemberships.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAowAkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -336,9 +327,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\Models\\Program.cs",
+              "DocumentMoniker": "D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\GymManagemement\\Models\\Program.cs",
               "RelativeDocumentMoniker": "GymManagemement\\Models\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\Models\\Program.cs",
+              "ToolTip": "D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\GymManagemement\\Models\\Program.cs",
               "RelativeToolTip": "GymManagemement\\Models\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -346,11 +337,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UCLoadmember.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\ModelControls\\UCLoadmember.cs",
+              "DocumentMoniker": "D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\GymManagemement\\ModelControls\\UCLoadmember.cs",
               "RelativeDocumentMoniker": "GymManagemement\\ModelControls\\UCLoadmember.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive - hcmute.edu.vn\\Desktop\\GymManagement-ThanhLuan\\GymManagemement\\ModelControls\\UCLoadmember.cs [Design]",
+              "ToolTip": "D:\\Luan document\\tai lieu hoc tap\\Hoc ki 4\\WinForm\\CuoiKy\\source\\GymManagement-ThanhLuan\\GymManagemement\\ModelControls\\UCLoadmember.cs [Design]",
               "RelativeToolTip": "GymManagemement\\ModelControls\\UCLoadmember.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T17:22:52.254Z",
