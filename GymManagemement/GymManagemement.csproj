@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{87F1DF7F-6B9C-4EA8-AFF0-18371FB757C7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GymManagemement</RootNamespace>
+    <AssemblyName>GymManagemement</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2, Version=2.0.4.7, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.7\lib\net472\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form\Addmembership.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Addmembership.Designer.cs">
+      <DependentUpon>Addmembership.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Service\Load_Membership.cs" />
+    <Compile Include="Models\ActivityItem.cs" />
+    <Compile Include="ModelControls\ActivityItemControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ModelControls\ActivityItemControl.Designer.cs">
+      <DependentUpon>ActivityItemControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Addmem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Addmem.Designer.cs">
+      <DependentUpon>Addmem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Connection\ConnDB.cs" />
+    <Compile Include="Models\Loadmember.cs" />
+    <Compile Include="Models\Loadmembership.cs" />
+    <Compile Include="Models\Loadpayment.cs" />
+    <Compile Include="Models\MemActive.cs" />
+    <Compile Include="Models\MemExpired.cs" />
+    <Compile Include="Models\NewMember.cs" />
+    <Compile Include="ModelControls\NewMemControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ModelControls\NewMemControl.Designer.cs">
+      <DependentUpon>NewMemControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Service\Load_Member.cs" />
+    <Compile Include="ModelControls\UCLoadmember.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ModelControls\UCLoadmember.Designer.cs">
+      <DependentUpon>UCLoadmember.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModelControls\UCLoadmembership.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ModelControls\UCLoadmembership.Designer.cs">
+      <DependentUpon>UCLoadmembership.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModelControls\UCLoadpayment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ModelControls\UCLoadpayment.Designer.cs">
+      <DependentUpon>UCLoadpayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModelControls\UCMemActive.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ModelControls\UCMemActive.Designer.cs">
+      <DependentUpon>UCMemActive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\UCPayment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\UCPayment.Designer.cs">
+      <DependentUpon>UCPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\UCMemberships.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\UCMemberships.Designer.cs">
+      <DependentUpon>UCMemberships.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\UCMember.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\UCMember.Designer.cs">
+      <DependentUpon>UCMember.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModelControls\UcMemExpired.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ModelControls\UcMemExpired.Designer.cs">
+      <DependentUpon>UcMemExpired.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModelControls\UCNotification.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ModelControls\UCNotification.Designer.cs">
+      <DependentUpon>UCNotification.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\UCEquipment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\UCEquipment.Designer.cs">
+      <DependentUpon>UCEquipment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\UCHome.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\UCHome.Designer.cs">
+      <DependentUpon>UCHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FrmDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmDashboard.Designer.cs">
+      <DependentUpon>FrmDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form\Addmembership.resx">
+      <DependentUpon>Addmembership.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModelControls\ActivityItemControl.resx">
+      <DependentUpon>ActivityItemControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Addmem.resx">
+      <DependentUpon>Addmem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModelControls\NewMemControl.resx">
+      <DependentUpon>NewMemControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModelControls\UCLoadmember.resx">
+      <DependentUpon>UCLoadmember.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModelControls\UCLoadmembership.resx">
+      <DependentUpon>UCLoadmembership.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModelControls\UCLoadpayment.resx">
+      <DependentUpon>UCLoadpayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModelControls\UCMemActive.resx">
+      <DependentUpon>UCMemActive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\UCPayment.resx">
+      <DependentUpon>UCPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\UCMemberships.resx">
+      <DependentUpon>UCMemberships.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModelControls\UcMemExpired.resx">
+      <DependentUpon>UcMemExpired.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModelControls\UCNotification.resx">
+      <DependentUpon>UCNotification.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\UCEquipment.resx">
+      <DependentUpon>UCEquipment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\UCHome.resx">
+      <DependentUpon>UCHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmDashboard.resx">
+      <DependentUpon>FrmDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\UCMember.resx">
+      <DependentUpon>UCMember.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\app.manifest" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dumbell_fixcolor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Avt_fixCircle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\filter_fixcolor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_fixbg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_fixconer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_fixbg1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reload_fixcolor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coin_fixcolor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coin_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clock_fixsize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tick_fixcolor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\X_fixcolor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\X_fixcolor%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_fixconer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calender_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tag_png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\group_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_fix.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\member_fixcolor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\member_fix2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\idcard_fixconer.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mail_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gender_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calender_fix.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\membership_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\membership_fix.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trainer_fixconer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dumbbell_membership.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

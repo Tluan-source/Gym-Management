@@ -1,0 +1,76 @@
+C:\Users\ADMIN\source\repos\GymManagemement\GymManagemement\bin\Debug\GymManagemement.exe
+C:\Users\ADMIN\source\repos\GymManagemement\GymManagemement\bin\Debug\GymManagemement.exe.config
+C:\Users\ADMIN\source\repos\GymManagemement\GymManagemement\obj\Debug\GymManagemement.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\GymManagemement\GymManagemement\obj\Debug\GymManagemement.FrmLogin.resources
+C:\Users\ADMIN\source\repos\GymManagemement\GymManagemement\obj\Debug\GymManagemement.FrmDashboard.resources
+C:\Users\ADMIN\source\repos\GymManagemement\GymManagemement\obj\Debug\GymManagemement.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\GymManagemement\GymManagemement\obj\Debug\GymManagemement.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\GymManagemement\GymManagemement\obj\Debug\GymManagemement.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\GymManagemement\GymManagemement\obj\Debug\GymManagemement.exe
+C:\Users\ADMIN\source\repos\GymManagemement\GymManagemement\obj\Debug\GymManagemement.pdb
+C:\Users\ADMIN\source\repos\GymManagemement\GymManagemement\bin\Debug\GymManagemement.pdb
+C:\Users\ADMIN\source\repos\GymManagemement\GymManagemement\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\source\repos\GymManagemement\GymManagemement\obj\Debug\GymManag.0F0F6A22.Up2Date
+C:\Users\ADMIN\source\repos\GymManagemement\GymManagemement\obj\Debug\GymManagemement.UCHome.resources
+C:\Users\ADMIN\source\repos\GymManagemement\GymManagemement\obj\Debug\GymManagemement.ActivityItemControl.resources
+C:\Users\ADMIN\source\repos\GymManagemement\GymManagemement\obj\Debug\GymManagemement.NewMembers.NewMemControl.resources
+C:\Users\ADMIN\source\repos\GymManagemement\GymManagemement\obj\Debug\GymManagemement.UCEquipment.resources
+C:\Users\ADMIN\source\repos\GymManagemement\GymManagemement\obj\Debug\GymManagemement.UCNotification.resources
+C:\Users\ADMIN\source\repos\GymManagemement\GymManagemement\obj\Debug\GymManagemement.UCMemActive.resources
+C:\Users\ADMIN\source\repos\GymManagemement\GymManagemement\obj\Debug\GymManagemement.UcMemExpired.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagemement (1)\GymManagemement\bin\Debug\GymManagemement.exe.config
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagemement (1)\GymManagemement\bin\Debug\GymManagemement.exe
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagemement (1)\GymManagemement\bin\Debug\GymManagemement.pdb
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagemement (1)\GymManagemement\bin\Debug\Guna.UI2.dll
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagemement (1)\GymManagemement\obj\Debug\GymManagemement.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagemement (1)\GymManagemement\obj\Debug\GymManagemement.ActivityItemControl.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagemement (1)\GymManagemement\obj\Debug\GymManagemement.NewMembers.NewMemControl.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagemement (1)\GymManagemement\obj\Debug\GymManagemement.UCMemActive.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagemement (1)\GymManagemement\obj\Debug\GymManagemement.UcMemExpired.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagemement (1)\GymManagemement\obj\Debug\GymManagemement.UCNotification.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagemement (1)\GymManagemement\obj\Debug\GymManagemement.UCEquipment.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagemement (1)\GymManagemement\obj\Debug\GymManagemement.UCHome.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagemement (1)\GymManagemement\obj\Debug\GymManagemement.FrmLogin.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagemement (1)\GymManagemement\obj\Debug\GymManagemement.FrmDashboard.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagemement (1)\GymManagemement\obj\Debug\GymManagemement.Properties.Resources.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagemement (1)\GymManagemement\obj\Debug\GymManagemement.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagemement (1)\GymManagemement\obj\Debug\GymManagemement.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagemement (1)\GymManagemement\obj\Debug\GymManag.0F0F6A22.Up2Date
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagemement (1)\GymManagemement\obj\Debug\GymManagemement.exe
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagemement (1)\GymManagemement\obj\Debug\GymManagemement.pdb
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagemement (1)\GymManagemement\obj\Debug\GymManagemement.UCMember.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagemement (1)\GymManagemement\obj\Debug\GymManagemement.UCLoadmember.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagemement (1)\GymManagemement\obj\Debug\GymManagemement.UCMemberships.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagemement (1)\GymManagemement\obj\Debug\GymManagemement.UCLoadmembership.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagemement (1)\GymManagemement\obj\Debug\GymManagemement.UCLoadpayment.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagemement (1)\GymManagemement\obj\Debug\GymManagemement.UCPayment.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagemement (1)\GymManagemement\obj\Debug\GymManagemement.Addmem.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagemement (1)\GymManagemement\obj\Debug\GymManagemement.Addmembership.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagement-ThanhLuan\GymManagemement\bin\Debug\GymManagemement.exe.config
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagement-ThanhLuan\GymManagemement\bin\Debug\GymManagemement.exe
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagement-ThanhLuan\GymManagemement\bin\Debug\GymManagemement.pdb
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagement-ThanhLuan\GymManagemement\bin\Debug\Guna.UI2.dll
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.Addmembership.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.ActivityItemControl.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.Addmem.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.NewMembers.NewMemControl.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.UCLoadmember.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.UCLoadmembership.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.UCLoadpayment.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.UCMemActive.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.UCPayment.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.UCMemberships.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.UcMemExpired.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.UCNotification.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.UCEquipment.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.UCHome.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.FrmLogin.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.FrmDashboard.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.Properties.Resources.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.UCMember.resources
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManag.0F0F6A22.Up2Date
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.exe
+C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.pdb
