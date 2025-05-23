@@ -210,6 +210,7 @@
             this.cb_traintype.StartIndex = 0;
             this.cb_traintype.TabIndex = 95;
             this.cb_traintype.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.cb_traintype.SelectedIndexChanged += new System.EventHandler(this.cb_traintype_SelectedIndexChanged);
             // 
             // cb_trainer
             // 
@@ -231,6 +232,7 @@
             this.cb_trainer.StartIndex = 0;
             this.cb_trainer.TabIndex = 94;
             this.cb_trainer.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.cb_trainer.SelectedIndexChanged += new System.EventHandler(this.cb_trainer_SelectedIndexChanged);
             // 
             // dtp_date
             // 

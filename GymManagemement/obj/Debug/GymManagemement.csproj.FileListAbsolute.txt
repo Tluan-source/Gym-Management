@@ -74,3 +74,31 @@ C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagement-ThanhLuan\GymManage
 C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManag.0F0F6A22.Up2Date
 C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.exe
 C:\Users\ASUS\OneDrive - hcmute.edu.vn\Desktop\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.pdb
+D:\Luan document\tai lieu hoc tap\Hoc ki 4\WinForm\CuoiKy\source\GymManagement-ThanhLuan\GymManagemement\bin\Debug\GymManagemement.exe.config
+D:\Luan document\tai lieu hoc tap\Hoc ki 4\WinForm\CuoiKy\source\GymManagement-ThanhLuan\GymManagemement\bin\Debug\GymManagemement.exe
+D:\Luan document\tai lieu hoc tap\Hoc ki 4\WinForm\CuoiKy\source\GymManagement-ThanhLuan\GymManagemement\bin\Debug\GymManagemement.pdb
+D:\Luan document\tai lieu hoc tap\Hoc ki 4\WinForm\CuoiKy\source\GymManagement-ThanhLuan\GymManagemement\bin\Debug\Guna.UI2.dll
+D:\Luan document\tai lieu hoc tap\Hoc ki 4\WinForm\CuoiKy\source\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.csproj.AssemblyReference.cache
+D:\Luan document\tai lieu hoc tap\Hoc ki 4\WinForm\CuoiKy\source\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.Addmembership.resources
+D:\Luan document\tai lieu hoc tap\Hoc ki 4\WinForm\CuoiKy\source\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.ActivityItemControl.resources
+D:\Luan document\tai lieu hoc tap\Hoc ki 4\WinForm\CuoiKy\source\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.Addmem.resources
+D:\Luan document\tai lieu hoc tap\Hoc ki 4\WinForm\CuoiKy\source\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.NewMembers.NewMemControl.resources
+D:\Luan document\tai lieu hoc tap\Hoc ki 4\WinForm\CuoiKy\source\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.UCLoadmember.resources
+D:\Luan document\tai lieu hoc tap\Hoc ki 4\WinForm\CuoiKy\source\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.UCLoadmembership.resources
+D:\Luan document\tai lieu hoc tap\Hoc ki 4\WinForm\CuoiKy\source\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.UCLoadpayment.resources
+D:\Luan document\tai lieu hoc tap\Hoc ki 4\WinForm\CuoiKy\source\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.UCMemActive.resources
+D:\Luan document\tai lieu hoc tap\Hoc ki 4\WinForm\CuoiKy\source\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.UCPayment.resources
+D:\Luan document\tai lieu hoc tap\Hoc ki 4\WinForm\CuoiKy\source\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.UCMemberships.resources
+D:\Luan document\tai lieu hoc tap\Hoc ki 4\WinForm\CuoiKy\source\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.UcMemExpired.resources
+D:\Luan document\tai lieu hoc tap\Hoc ki 4\WinForm\CuoiKy\source\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.UCNotification.resources
+D:\Luan document\tai lieu hoc tap\Hoc ki 4\WinForm\CuoiKy\source\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.UCEquipment.resources
+D:\Luan document\tai lieu hoc tap\Hoc ki 4\WinForm\CuoiKy\source\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.UCHome.resources
+D:\Luan document\tai lieu hoc tap\Hoc ki 4\WinForm\CuoiKy\source\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.FrmLogin.resources
+D:\Luan document\tai lieu hoc tap\Hoc ki 4\WinForm\CuoiKy\source\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.FrmDashboard.resources
+D:\Luan document\tai lieu hoc tap\Hoc ki 4\WinForm\CuoiKy\source\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.Properties.Resources.resources
+D:\Luan document\tai lieu hoc tap\Hoc ki 4\WinForm\CuoiKy\source\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.UCMember.resources
+D:\Luan document\tai lieu hoc tap\Hoc ki 4\WinForm\CuoiKy\source\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.csproj.GenerateResource.cache
+D:\Luan document\tai lieu hoc tap\Hoc ki 4\WinForm\CuoiKy\source\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.csproj.CoreCompileInputs.cache
+D:\Luan document\tai lieu hoc tap\Hoc ki 4\WinForm\CuoiKy\source\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManag.0F0F6A22.Up2Date
+D:\Luan document\tai lieu hoc tap\Hoc ki 4\WinForm\CuoiKy\source\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.exe
+D:\Luan document\tai lieu hoc tap\Hoc ki 4\WinForm\CuoiKy\source\GymManagement-ThanhLuan\GymManagemement\obj\Debug\GymManagemement.pdb

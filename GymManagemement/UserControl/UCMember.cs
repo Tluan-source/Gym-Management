@@ -22,7 +22,6 @@ namespace GymManagemement
         {
             Load_Member member = new Load_Member();
             List<Loadmember> members = member.Getmember();
-            flp_member.Controls.Clear();
             try { 
                 flp_member.Controls.Clear();
                 foreach (var item in members)
@@ -78,8 +77,10 @@ namespace GymManagemement
         {
             try
             {
-               
+
                 ConnDB db = new ConnDB();
+
+                // 1. Load membership types
                 string query = @"
                 SELECT DISTINCT mbs.name AS namembs 
                 FROM members mb 
@@ -91,7 +92,6 @@ namespace GymManagemement
                 {
                     DataTable table = ds.Tables[0];
 
-                    //Thêm hàng "None" vào đầu
                     DataRow row = table.NewRow();
                     row["namembs"] = "None";
                     table.Rows.InsertAt(row, 0);
@@ -101,19 +101,41 @@ namespace GymManagemement
                     cb_mbstype.ValueMember = "namembs";
                 }
 
-                //MessageBox.Show(cb_mbstype.ValueMember, cb_mbstype.DisplayMember);
-
+                // 2. Load training types
                 string query2 = "SELECT DISTINCT training_type FROM members";
                 DataSet ds2 = db.ExecuteQueryData(query2, CommandType.Text);
 
-                cb_traintype.DataSource = ds2.Tables[0];
-                cb_traintype.DisplayMember = cb_traintype.ValueMember = "training_type";
-                string query3 = "SELECT DISTINCT mb.trainer_id id_trainer, t.full_name name_trainer FROM members mb JOIN trainers t ON mb.trainer_id = t.trainer_id";
+                DataTable dt = ds2.Tables[0];
+
+                DataRow newRow = dt.NewRow();
+                newRow["training_type"] = "None";
+                dt.Rows.InsertAt(newRow, 0);
+
+                cb_traintype.DataSource = dt;
+                cb_traintype.DisplayMember = "training_type";
+                cb_traintype.ValueMember = "training_type";
+
+                // 3. Load trainer list
+                string query3 = @"
+                SELECT DISTINCT mb.trainer_id AS id_trainer, t.full_name AS name_trainer
+                FROM members mb 
+                JOIN trainers t ON mb.trainer_id = t.trainer_id";
+
                 DataSet ds3 = db.ExecuteQueryData(query3, CommandType.Text);
 
-                cb_trainer.DataSource = ds3.Tables[0];
-                cb_trainer.DisplayMember = "name_trainer";
-                cb_trainer.ValueMember = "id_trainer";
+                if (ds3.Tables.Count > 0)
+                {
+                    DataTable dt3 = ds3.Tables[0];
+
+                    DataRow row3 = dt3.NewRow();
+                    row3["id_trainer"] = DBNull.Value; // hoặc "", nếu bạn dùng chuỗi rỗng
+                    row3["name_trainer"] = "None";
+                    dt3.Rows.InsertAt(row3, 0);
+
+                    cb_trainer.DataSource = dt3;
+                    cb_trainer.DisplayMember = "name_trainer";
+                    cb_trainer.ValueMember = "id_trainer";
+                }
             }
             catch(Exception e)
             {
@@ -127,31 +149,52 @@ namespace GymManagemement
 
             foreach (Control ctrl in flp_member.Controls)
             {
-                if(ctrl is UCLoadmember ucLoadmember)
+                if(ctrl is UCLoadmember searchbyName)
                 {
-                    string membername = ucLoadmember.currentMemberData?.FullName?.ToLower() ?? "";
+                    string membername = searchbyName.currentMemberData?.FullName?.ToLower() ?? "";
 
-                    ucLoadmember.Visible = membername.Contains(keyword);
+                    searchbyName.Visible = membername.Contains(keyword);
                 }
             }
         }
-        //sdsdsdsddssddssdds
         private void cb_mbstype_SelectedIndexChanged(object sender, EventArgs e)
         {
             string selectedValue = cb_mbstype.Text;
             foreach (Control ctrl in flp_member.Controls)
             {
-                if (ctrl is UCLoadmember ucLoadmember)
+                if (ctrl is UCLoadmember searchbyMbstype)
                 {
-                    string mbstype = ucLoadmember.currentMemberData?.Membership ?? "";
-                    if(cb_mbstype.SelectedIndex == 0)
-                    {
-                        ucLoadmember.Visible = true;
-                    }
-                    else
-                    {
-                        ucLoadmember.Visible = mbstype.Contains(selectedValue);
-                    }
+                    string mbstype = searchbyMbstype.currentMemberData?.Membership ?? "";
+                    if(cb_mbstype.SelectedIndex == 0) searchbyMbstype.Visible = true;
+                    else searchbyMbstype.Visible = mbstype.Contains(selectedValue);
+                }
+            }
+        }
+
+        private void cb_traintype_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            string selectedTrainType = cb_traintype.Text;
+            foreach (Control ctrl in flp_member.Controls)
+            {
+                if(ctrl is UCLoadmember searchbyTraintype)
+                {
+                    string traintype = searchbyTraintype.currentMemberData?.TrainingType ?? "";
+                    if(cb_traintype.SelectedIndex == 0) searchbyTraintype.Visible = true;
+                    else searchbyTraintype.Visible = traintype.Contains(selectedTrainType);
+                }
+            }
+        }
+
+        private void cb_trainer_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            string selectedTrainer = cb_trainer.Text;
+            foreach (Control ctrl in flp_member.Controls)
+            {
+                if(ctrl is UCLoadmember searchbyTrainer)
+                {
+                    string trainer = searchbyTrainer.currentMemberData?.Trainer ?? "";
+                    if(cb_trainer.SelectedIndex == 0) searchbyTrainer.Visible = true;
+                    else searchbyTrainer.Visible= trainer.Contains(selectedTrainer);
                 }
             }
         }

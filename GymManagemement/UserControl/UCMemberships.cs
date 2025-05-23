@@ -17,7 +17,7 @@ namespace GymManagemement
         {
             InitializeComponent();
         }
-        private void LoadDataMembership()
+        public void LoadDataMembership()
         {
             Load_Membership membership = new Load_Membership();
             List<Loadmembership> memberships = membership.GetMembership();
@@ -29,7 +29,7 @@ namespace GymManagemement
                 {
                     var ctrl = new UCLoadmembership();
                     ctrl.Setdata(item);
-                    //ctrl.MembershipUpdated += () => LoadDataMembership(); // Đăng ký sự kiện cập nhật thành viên
+                    ctrl.MembershipUpdated += () => LoadDataMembership(); // Đăng ký sự kiện cập nhật thành viên
                     flp_memberships.Controls.Add(ctrl);
                 }
             }
@@ -72,6 +72,20 @@ namespace GymManagemement
         private void btn_reload_Click(object sender, EventArgs e)
         {
             LoadDataMembership();
+        }
+
+        private void txt_search_TextChanged(object sender, EventArgs e)
+        {
+            string keyword = txt_search.Text.Trim().ToLower();
+
+            foreach (Control ctrl in flp_memberships.Controls)
+            {
+                if(ctrl is UCLoadmembership searchbyname)
+                {
+                    string membershipname = searchbyname.currentMembershipData?.Name?.ToLower() ?? "";
+                    searchbyname.Visible = membershipname.Contains(keyword);
+                }
+            }
         }
     }
 }

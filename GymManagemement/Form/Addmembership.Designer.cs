@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Addmembership));
-            this.guna2HtmlLabel1 = new Guna.UI2.WinForms.Guna2HtmlLabel();
+            this.lb_title = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2PictureBox1 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.guna2HtmlLabel2 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2HtmlLabel3 = new Guna.UI2.WinForms.Guna2HtmlLabel();
@@ -92,16 +92,16 @@
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox2)).BeginInit();
             this.SuspendLayout();
             // 
-            // guna2HtmlLabel1
+            // lb_title
             // 
-            this.guna2HtmlLabel1.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel1.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold);
-            this.guna2HtmlLabel1.Location = new System.Drawing.Point(51, 15);
-            this.guna2HtmlLabel1.Margin = new System.Windows.Forms.Padding(2);
-            this.guna2HtmlLabel1.Name = "guna2HtmlLabel1";
-            this.guna2HtmlLabel1.Size = new System.Drawing.Size(164, 23);
-            this.guna2HtmlLabel1.TabIndex = 0;
-            this.guna2HtmlLabel1.Text = "Add new membership";
+            this.lb_title.BackColor = System.Drawing.Color.Transparent;
+            this.lb_title.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold);
+            this.lb_title.Location = new System.Drawing.Point(51, 15);
+            this.lb_title.Margin = new System.Windows.Forms.Padding(2);
+            this.lb_title.Name = "lb_title";
+            this.lb_title.Size = new System.Drawing.Size(164, 23);
+            this.lb_title.TabIndex = 0;
+            this.lb_title.Text = "Add new membership";
             // 
             // guna2PictureBox1
             // 
@@ -167,7 +167,7 @@
             this.txt_name.Name = "txt_name";
             this.txt_name.PlaceholderText = "VD: Platium";
             this.txt_name.SelectedText = "";
-            this.txt_name.Size = new System.Drawing.Size(242, 24);
+            this.txt_name.Size = new System.Drawing.Size(249, 24);
             this.txt_name.TabIndex = 1;
             this.txt_name.TextChanged += new System.EventHandler(this.txt_name_TextChanged);
             this.txt_name.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txt_name_KeyPress);
@@ -814,7 +814,7 @@
             // 
             this.guna2HtmlLabel16.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel16.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.guna2HtmlLabel16.Location = new System.Drawing.Point(262, 89);
+            this.guna2HtmlLabel16.Location = new System.Drawing.Point(273, 89);
             this.guna2HtmlLabel16.Margin = new System.Windows.Forms.Padding(2);
             this.guna2HtmlLabel16.Name = "guna2HtmlLabel16";
             this.guna2HtmlLabel16.Size = new System.Drawing.Size(14, 17);
@@ -826,7 +826,7 @@
             this.guna2HtmlLabel17.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel17.Font = new System.Drawing.Font("Segoe UI Black", 8.5F, System.Drawing.FontStyle.Bold);
             this.guna2HtmlLabel17.ForeColor = System.Drawing.Color.Red;
-            this.guna2HtmlLabel17.Location = new System.Drawing.Point(277, 90);
+            this.guna2HtmlLabel17.Location = new System.Drawing.Point(288, 90);
             this.guna2HtmlLabel17.Margin = new System.Windows.Forms.Padding(2);
             this.guna2HtmlLabel17.Name = "guna2HtmlLabel17";
             this.guna2HtmlLabel17.Size = new System.Drawing.Size(8, 15);
@@ -838,12 +838,12 @@
             this.guna2HtmlLabel18.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel18.Font = new System.Drawing.Font("Segoe UI", 6.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2HtmlLabel18.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.guna2HtmlLabel18.Location = new System.Drawing.Point(262, 102);
+            this.guna2HtmlLabel18.Location = new System.Drawing.Point(273, 102);
             this.guna2HtmlLabel18.Margin = new System.Windows.Forms.Padding(2);
             this.guna2HtmlLabel18.Name = "guna2HtmlLabel18";
-            this.guna2HtmlLabel18.Size = new System.Drawing.Size(48, 14);
+            this.guna2HtmlLabel18.Size = new System.Drawing.Size(22, 14);
             this.guna2HtmlLabel18.TabIndex = 26;
-            this.guna2HtmlLabel18.Text = "Static value";
+            this.guna2HtmlLabel18.Text = "Auto";
             // 
             // txt_ID
             // 
@@ -859,12 +859,13 @@
             this.txt_ID.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.txt_ID.ForeColor = System.Drawing.Color.Black;
             this.txt_ID.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.txt_ID.Location = new System.Drawing.Point(262, 119);
+            this.txt_ID.Location = new System.Drawing.Point(270, 119);
             this.txt_ID.Name = "txt_ID";
             this.txt_ID.PlaceholderText = "99";
             this.txt_ID.SelectedText = "";
-            this.txt_ID.Size = new System.Drawing.Size(48, 24);
+            this.txt_ID.Size = new System.Drawing.Size(34, 24);
             this.txt_ID.TabIndex = 27;
+            this.txt_ID.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // Addmembership
             // 
@@ -894,7 +895,7 @@
             this.Controls.Add(this.guna2HtmlLabel4);
             this.Controls.Add(this.guna2HtmlLabel3);
             this.Controls.Add(this.guna2HtmlLabel2);
-            this.Controls.Add(this.guna2HtmlLabel1);
+            this.Controls.Add(this.lb_title);
             this.Controls.Add(this.guna2PictureBox1);
             this.Controls.Add(this.guna2CustomGradientPanel1);
             this.Controls.Add(this.guna2HtmlLabel13);
@@ -923,7 +924,7 @@
 
         #endregion
 
-        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel1;
+        private Guna.UI2.WinForms.Guna2HtmlLabel lb_title;
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox1;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel2;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel3;

@@ -129,9 +129,9 @@
             this.lb_duration.Location = new System.Drawing.Point(30, 86);
             this.lb_duration.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lb_duration.Name = "lb_duration";
-            this.lb_duration.Size = new System.Drawing.Size(60, 19);
+            this.lb_duration.Size = new System.Drawing.Size(61, 19);
             this.lb_duration.TabIndex = 15;
-            this.lb_duration.Text = "30 days";
+            this.lb_duration.Text = "30 Days";
             // 
             // label4
             // 

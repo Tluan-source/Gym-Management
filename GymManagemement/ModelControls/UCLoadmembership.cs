@@ -15,7 +15,7 @@ namespace GymManagemement
     public partial class UCLoadmembership : UserControl
     {
         public event Action MembershipUpdated;
-        private Loadmembership currentMembershipData;
+        public Loadmembership currentMembershipData;
         public UCLoadmembership()
         {
             InitializeComponent();
